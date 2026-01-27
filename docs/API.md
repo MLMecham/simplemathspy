@@ -7,3 +7,7 @@
 ## Add
 
 ::: simplemathspy.add_numbers.add
+
+::: simplemathspy.multiply3
+
+::: simplemathspy.pctformat
