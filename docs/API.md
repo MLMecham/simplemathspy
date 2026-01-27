@@ -6,6 +6,8 @@
 
 ::: simplemathspy.add_numbers.add
 
+::: simplemathspy.terrible_multiply.bad_multiply
+
 ::: simplemaths.py.duplicate_mitch.duplicate_mitch
 
 ::: simplemathspy.multiply3
